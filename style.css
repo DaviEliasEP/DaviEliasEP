@@ -1,0 +1,22 @@
+body{
+color: white;
+  }  
+
+ button{ 
+ background-color: white;
+ position: revert;
+ border: 3px, solid ;
+ border-color: limegreen;
+ background-size: 9 px;
+  
+ }
+     
+ button:hover{ 
+ background-color: limegreen;
+ color: white;
+   } 
+     
+ ul:hover{ 
+ color: black;
+ background-color: white; 
+ }  
